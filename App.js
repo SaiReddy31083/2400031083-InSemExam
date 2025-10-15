@@ -1,5 +1,5 @@
 function greet() {
-  return "Hello from main";
+  return "Hello from feature1";
 }
 
 console.log(greet());
