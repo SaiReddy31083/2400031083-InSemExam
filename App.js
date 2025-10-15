@@ -1,5 +1,5 @@
 function greet() {
-  return "Hello from feature1";
+  return "Hello from merged main";
 }
 
 console.log(greet());
